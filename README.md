@@ -1,5 +1,9 @@
-# CalculadoraTrigonometrica
+# Trigonometric Calculator
+I present the Trigonometric Calculator, your indispensable tool for unlocking the secrets of the sine, cosine and tangent functions. Whether you are a student, engineer, scientist or anyone who needs to perform trigonometric calculations, our calculator is the complete solution for your needs.
 
+With Trigonometric Calculator, you can quickly calculate the values ​​of trigonometric functions in degrees or radians. Just enter the desired angle and choose between sine, cosine or tangent. The calculator will instantly provide the corresponding value, as well as a graphical representation of the trigonometric cycle, making it easy to visualize the result.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Apresento a Calculadora Trigonométrica, a sua ferramenta indispensável para desvendar os segredos das funções seno, cosseno e tangente. Seja você um estudante, engenheiro, 
 cientista ou qualquer pessoa que precise realizar cálculos trigonométricos, nossa calculadora é a solução completa para suas necessidades.
 
